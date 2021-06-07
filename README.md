@@ -3,7 +3,7 @@
 ## How Technology & the Internet Impact our Social Dynamic 
     Insert Introduction 
 
-![social-platform](/social-platform.jpg "socialplatform")
+![social-platform1](/social-platforms.jpg "social-platform2")
 
 ## Team Members
 Jennifer Broome Chung and Ivana Parrilla
