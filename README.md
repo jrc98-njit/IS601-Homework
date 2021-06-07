@@ -6,7 +6,8 @@
 ![social-platform1](/social-platforms.jpg "social-platform2")
 
 ## Team Members
-Jennifer Broome Chung and Ivana Parrilla
+ * Jennifer Broome Chung
+ * Ivana Parrilla
 
 ## Content
 1. Introduction of the WWW
@@ -16,4 +17,4 @@ Jennifer Broome Chung and Ivana Parrilla
 7. Who Owns the Internet?
 
 ## Sources
-* [Basic Syntax: Markdown Guide](https://www.markdownguide.org/basic-syntax/#overview)
+[Basic Syntax: Markdown Guide](https://www.markdownguide.org/basic-syntax/#overview)
