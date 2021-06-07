@@ -8,9 +8,12 @@
 ## Team Members
 Jennifer Broome Chung and Ivana Parrilla
 
-## Index
+## Content
 1. Introduction of the WWW
 2. E-Commerce
 3. Social Networking
 4. Politics 
 7. Who Owns the Internet?
+
+## Sources
+* [Basic Syntax: Markdown Guide](https://www.markdownguide.org/basic-syntax/#overview)
