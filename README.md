@@ -1,7 +1,7 @@
 # IS601-Summer 2021 Homework 
 
-## How Technology & the Internet Impacts Social Dynamics 
-    Insert Introduction  
+## How Technology & the Internet Impact our Social Dynamic 
+    Insert Introduction 
 
 ![social-platform1](/social-platforms.jpg "social-platform2")
 
