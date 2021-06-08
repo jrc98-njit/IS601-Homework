@@ -9,6 +9,9 @@
  * Jennifer Broome Chung
  * Ivana Parrilla
 
+## Outline
+
+
 ## Content
 1. Introduction of the WWW
 2. E-Commerce
