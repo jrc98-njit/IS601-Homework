@@ -3,7 +3,7 @@
 ## E-Commerce 
     Insert Introduction 
 
-![eCommCart](/eCommCart.PNG "eCommerce")
+![eCommCart](/eCommCart.PNG)
 
 1. Definiton 
 2. Types 
