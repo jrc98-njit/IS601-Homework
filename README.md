@@ -3,7 +3,7 @@
 ## E-Commerce 
     Insert Introduction 
 
-![social-platform1](/social-platforms.jpg "social-platform2")
+![eCommCart](/eCommCart.PNG "eCommerce")
 
 1. Definiton 
 2. Types 
