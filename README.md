@@ -1,7 +1,7 @@
 # IS601-Summer 2021 Homework 
 
-## How Technology & the Internet Impact Social Dynamics 
-    Insert Introduction 
+## How the Internet Impacts Social Dynamics 
+   This website is an informational/editorial site discussing how the internet (and its technology) has changed the way we interact as a society.
 
 ![social-platform1](/social-platforms.jpg "social-platform2")
 
@@ -9,16 +9,44 @@
  * Jennifer Broome Chung
  * Ivana Parrilla
 
-## Outline
+## Outline/Content
 
+### Website General Info 
+   1. Description - We would like to explore the implications the internet has had on key aspects of society such as e-commerce, relationships and politics. 
+   2. Keywords – society, relationships, dynamics 
+   3. Website Title - How the Internet has Change Social Dynamics
+   4. Page Title – Introduction to the WWW 
 
-## Content
-1. Introduction of the WWW
-2. E-Commerce
-3. Social Networking
-4. Politics 
-7. Who Owns the Internet?
+### Page 1 - Social Communities 
+    1. Menu Link (what people see on the website)
+    2. Page Title (What appears in the browser address bar)
+    3. Description - Societal Implications of Social Communities
+    4. Keywords – Online communities, social media, social networking, social sites
+    5. Page Layout: (What layout will you use) – F 
+    6. Page Content: Link to another markdown document with the page content
+    7. Page Image 
+    8. Page Image Alt attribute 
+    
+ #### Sidebar Image
+    1.Image Link
+    2.Image Alt attribute
+        2.Sidebar text
+   
+### Page 2 -E-Commerce (Social Commerce) 
+    1. Menu Link (what people see on the website)
+    2. Page Title (What appears in the browser address bar)
+    3. Description – Societal Implications of E-Commerce 
+    4. Keywords – B2B, B2C, C2C, electronic commerce, internet commerce, social marketing, 
+    5. Page Layout: (What layout will you use) – F or Z
+    6. Page Content: Link to another markdown document with the page content
+    7. Page Image 
+    8. Page Image Alt attribute 
+    
+### Page 3 - Social Networking Governance 
 
-
-## Sources
-[Basic Syntax: Markdown Guide](https://www.markdownguide.org/basic-syntax/#overview)
+### Footer Menu 
+    1. Address
+    2. Connect with Us/Follow  ( Instagram, Facebook, LinkedIn)
+    3. Useful Links10.
+### About Page
+    1.Bio’s for Jennifer, Ivana (include LinkedIn, Facebook, Instagram)
