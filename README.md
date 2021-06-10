@@ -27,7 +27,18 @@
     7. Page Image 
     8. Page Image Alt attribute 
     
- #### Sidebar Image
+### Sidebar Content (i.e. secondary information may be about people, places, companies, or other events this will appear on the side).
+    1.Evolution of Technology
+        1.Web Browsing2.Streaming 
+        2.Pioneers 
+            1. Google 
+            2. Facebook/Instagram
+            3. YouTube4.Amazon
+        3. Governance 
+            1. WCS
+            2. ICAAN
+    
+ ### Sidebar Image
     1.Image Link
     2.Image Alt attribute
         2.Sidebar text
