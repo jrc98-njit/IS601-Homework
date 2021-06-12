@@ -3,7 +3,12 @@
 ## How the Internet Impacts Social Dynamics 
    This website is an informational/editorial site discussing how the internet (and its technology) has changed the way we interact as a society.
 
-![social-platform1](/social-platforms.jpg "social-platform2")
+### Main Site Image
+    1.Image Link
+    2.Image Alt attribute
+        2.Sidebar text
+
+   ![social-platform1](/social-platforms.jpg "social-platform2")
 
 ## Team Members
  * Jennifer Broome Chung
