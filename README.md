@@ -15,7 +15,7 @@
    1. Description - We would like to explore the implications the internet has had on key aspects of society such as e-commerce, relationships and politics. 
    2. Keywords – society, relationships, dynamics 
    3. Website Title - How the Internet has Change Social Dynamics
-   4. Page Title – Introduction to the WWW 
+   4. Page Title – Introduction/Welcome
 
 ### Page 1 - Social Communities 
     1. Menu Link (what people see on the website)
@@ -53,11 +53,13 @@
     7. Page Image 
     8. Page Image Alt attribute 
     
-### Page 3 - Social Networking Governance 
+### Page 3 - Social Networking
 
 ### Footer Menu 
     1. Address
     2. Connect with Us/Follow  ( Instagram, Facebook, LinkedIn)
-    3. Useful Links10.
+    3. Useful Links
+    
 ### About Page
-    1.Bio’s for Jennifer, Ivana (include LinkedIn, Facebook, Instagram)
+    Bio’s for Jennifer, Ivana (include LinkedIn, Facebook, Instagram)
+    
