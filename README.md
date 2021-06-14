@@ -29,7 +29,7 @@
 ### Website General Info 
    1. Description - We would like to explore the implications the internet has had on key aspects of society such as e-commerce, relationships and politics. 
    2. Keywords – society, relationships, dynamics 
-   3. Website Title - How the Internet has Change Social Dynamics
+   3. Website Title - How the Internet has Changed Social Dynamics
    4. Page Title – Introduction/Welcome
 
 ### Page 1 - Social Communities 
@@ -42,17 +42,18 @@
     7. Page Image 
     8. Page Image Alt attribute 
     
-### Sidebar Content (i.e. secondary information may be about people, places, companies, or other events this will appear on the side).
+### Sidebar Content 
     1.Evolution of Technology
-        1.Web Browsing2.Streaming 
-        2.Pioneers 
-            1. Google 
-            2. Facebook/Instagram
-            3. YouTube
-            4.Amazon
-        3. Governance 
-            1. WCS
-            2. ICAAN
+        1. Web Browsing
+        2. Streaming 
+    2. Pioneers 
+        1. Google 
+        2. Facebook/Instagram
+        3. YouTube
+        4. Amazon
+    3. Governance 
+        1. WCS
+        2. ICAAN
     
  ### Sidebar Image
     1.Image Link
