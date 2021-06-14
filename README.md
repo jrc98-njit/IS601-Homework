@@ -69,14 +69,14 @@
     8. Page Image Alt attribute 
     
 ### Page 3 - Social Networking
-   1. Menu Link (What people on the website)
-   2. Page Title (What appears in the browser address bar_
-   3. Description - Societal Implications of Social Networking
-   4. Keywords - Social media, social expression, social media marketing
-   5. Page Layout: (What layout will you use) - F
-   6. Page Content: Link to another markdown document with page content
-   7. Page Image
-   8. Page Imate Alt attribute 
+     1. Menu Link (What people on the website)
+     2. Page Title (What appears in the browser address bar_
+     3. Description - Societal Implications of Social Networking
+     4. Keywords - Social media, social expression, social media marketing
+     5. Page Layout: (What layout will you use) - F
+     6. Page Content: Link to another markdown document with page content
+     7. Page Image
+     8. Page Imate Alt attribute 
 
 
 ### Footer Menu 
