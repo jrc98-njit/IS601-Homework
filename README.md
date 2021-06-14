@@ -2,11 +2,13 @@
 
 ## Header 
 - Company
+- Convey that we want to encourage visitors to know more
 -  Site Logo 
    - Image Link
    - Image Alt attribute 
 - Help
 - Contact 
+- Search 
 
 ## How the Internet Impacts Social Dynamics 
    This website is an informational/editorial site discussing how the internet (and its technology) has changed the way we interact as a society.
