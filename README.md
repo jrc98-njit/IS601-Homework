@@ -14,7 +14,6 @@
 ### Main Site Image
     1.Image Link
     2.Image Alt attribute
-        2.Sidebar text
 
    ![social-platform1](/social-platforms.jpg "social-platform2")
  
@@ -69,9 +68,9 @@
 ### Page 3 - Social Networking
 
 ### Footer Menu 
-    1. Address
-    2. Connect with Us/Follow  ( Instagram, Facebook, LinkedIn)
-    3. Useful Links
+- Address
+- Connect with Us/Follow  ( Instagram, Facebook, LinkedIn)
+- Useful Links
     
 ### About Page
     Bio’s for Jennifer, Ivana (include LinkedIn, Facebook, Instagram)
