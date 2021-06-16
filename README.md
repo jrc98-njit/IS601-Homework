@@ -71,7 +71,7 @@
     8. Page Image Alt attribute 
     
 ### Page 3 - Social Networking
-     1. Menu Link (What people on the website)
+     1. Menu Link (What people see on the website)
      2. Page Title (What appears in the browser address bar)
      3. Description - Societal Implications of Social Networking
      4. Keywords - Social media, social expression, social media marketing
@@ -80,6 +80,26 @@
      7. Page Image
      8. Page Image Alt attribute 
 
+### Page 4 - Politics
+     1. Menu Link (What people see on the website)
+     2. Page Title (What appears in the browser address bar)
+     3. Desciption - Political Implications of Social Networking
+     4. Keywords - 
+     5. Page Layout (What layout will you use) - F
+     6. Page Content : Link to another markdown document with page content
+     7. Page Image
+     8. Page Image Alt attribute
+     
+ ### Page 5 - Who Owns the Internet
+     1. Menu Link (What people see on the wesbite)
+     2. Page Title (What appears in the broswer address address bar)
+     3. Decription - Who Owns the Internet
+     4. Keywords - 
+     5. Page Layout (What layout will you use)
+     6. Page Content : Link to another mardown document with page content
+     7. Page Image
+     8. Page Image Alt attribute
+     
 
 ### Footer Menu 
 - Address
