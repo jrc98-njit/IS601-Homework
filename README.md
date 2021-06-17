@@ -100,6 +100,9 @@
      7. Page Image
      8. Page Image Alt attribute
      
+###### Image Example
+_This is an **example** Image_
+Format: ![Alt Text}(https://image.shutterstock.com/image-photo/text-examples-appears-on-torn-600w-1920727619.jpg)
 
 ### Footer Menu 
 - Address
